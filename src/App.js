@@ -12,7 +12,7 @@ import {
   Shield as IconShieldSimple,
 } from 'lucide-react';
 
-const CHANNEL_LINK = "https://t.me/+riUY9R1NEAUxMzUy";
+const CHANNEL_LINK = "https://prescha.xyz/wtuvrmhxmd9k";
 
 /* ---------- данные ---------- */
 
